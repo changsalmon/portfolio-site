@@ -106,4 +106,8 @@ export default {
 .tag-pointer {
   cursor: pointer;
 }
+.content {
+    width: 90%;
+    margin: 0 auto 20px;
+}
 </style>
